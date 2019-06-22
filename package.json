@@ -1,7 +1,7 @@
 {
-	"name": "hana-shirosaki",
-	"displayName": "白咲花鼓励师",
-	"description": "写代码不再孤单，小花会突然萌到你",
+	"name": "xyjy-Aragaki",
+	"displayName": "新垣结衣鼓励师",
+	"description": "写代码不再孤单，结衣会突然萌到你",
 	"version": "0.0.2",
 	"publisher": "sumneko",
 	"icon": "images/logo.jpg",
@@ -12,7 +12,7 @@
 		"Other"
 	],
 	"keywords": [
-		"白咲花",
+		"新垣结衣",
 		"提醒",
 		"鼓励"
 	],
@@ -30,12 +30,12 @@
 			{
 				"command": "hana.showReminderView",
 				"title": "被萌一下",
-				"category": "hana"
+				"category": "xyjy"
 			}
 		],
 		"configuration": {
 			"type": "object",
-			"title": "白咲花",
+			"title": "新垣结衣",
 			"properties": {
 				"hana.reminderViewIntervalInMinutes": {
 					"type": "number",

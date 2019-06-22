@@ -2,9 +2,9 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Language="en-US" Id="hana-shirosaki" Version="0.0.2" Publisher="sumneko"/>
-    <DisplayName>白咲花鼓励师</DisplayName>
-    <Description xml:space="preserve">写代码不再孤单，小花会突然萌到你</Description>
-    <Tags>白咲花,提醒,鼓励</Tags>
+    <DisplayName>新垣结衣鼓励师</DisplayName>
+    <Description xml:space="preserve">写代码不再孤单，结衣会突然萌到你</Description>
+    <Tags>新垣结衣,提醒,鼓励</Tags>
     <Categories>Other</Categories>
     <GalleryFlags>Public</GalleryFlags>
     <Badges></Badges>

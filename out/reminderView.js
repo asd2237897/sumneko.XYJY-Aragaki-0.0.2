@@ -12,7 +12,7 @@ class ReminderView {
                 enableScripts: true,
                 retainContextWhenHidden: true,
             });
-            const imgNum = Math.ceil(Math.random() * 15) 
+            const imgNum = Math.ceil(Math.random() * 19) 
             const imagePath = vscode.Uri.file(path.join(context.extensionPath, 'images2', 'xyjy' +imgNum + '.gif'))
                 .with({ scheme: 'vscode-resource' });
             this.panel.webview.html = `<!DOCTYPE html>
@@ -23,7 +23,7 @@ class ReminderView {
     <title>新垣结衣</title>
 </head>
 <body>
-    <div><h1>李哥,这么长时间了，该停下来休息一下了~~</h1></div>
+    <div><h1>这么长时间了，该停下来休息一下了~~</h1></div>
     <div><img src="${imagePath}"></div>
 </body>
 </html>`;
